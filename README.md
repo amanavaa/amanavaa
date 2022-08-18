@@ -17,9 +17,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@aman_avaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aman_avaa" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aman kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aman kumar" height="30" width="40" /></a>
-<a href="https://fb.com/AvAa AkAy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="avaa akay" height="30" width="40" /></a>
+<a href="https://twitter.com/AmanAvaa?t=EA0iAXt_uUb1HgHM-IbXzw&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aman_avaa" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aman-kumar-0717a1237" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aman kumar" height="30" width="40" /></a>
+<a href="https://www.facebook.com/AvaaAkay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="avaa akay" height="30" width="40" /></a>
 <a href="https://instagram.com/aman_avaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aman_avaa" height="30" width="40" /></a>
 </p>
 
