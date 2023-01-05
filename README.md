@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/aman_avaa" target="blank"><img src="https://img.shields.io/twitter/follow/aman_avaa?logo=twitter&style=for-the-badge" alt="aman_avaa" /></a> </p>
 
-- 🌱 I’m currently learning **Artificial Intelligence.**
+- 🌱 I’m currently learning **DATA STRUCTURES AND ALGORITHMS.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/amanavaa/Portfolio-website](https://github.com/amanavaa/Portfolio-website)
 
